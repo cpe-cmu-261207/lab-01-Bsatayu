@@ -1,13 +1,25 @@
 <!DOCTYPE html>
 <html lang="th"> 
 <head>
-     <title>Home</title>
+     <title>Personal Web</title>
  </head>
  <body>
     <h1 style="text-align:center;">Satayu Settakit
     </h1> 
-    <h2>Home</h2>  
-     <h2>Gallery</h2>  
-     <a href="file:///C:/Users/ASUS/Documents/Lab%20Cpe/lab-01-Bsatayu/Contact">Contact</a> 
+    <h1>
+    <a href="file:///C:/Users/ASUS/Documents/Lab%20Cpe/lab-01-Bsatayu/Home">Home</a>   
+</h1>
+<h1>
+    <a href="file:///C:/Users/ASUS/Documents/Lab%20Cpe/lab-01-Bsatayu/Gallery">My Gallery</a> 
+</h1>
+ <h1>
+    <a href="file:///C:/Users/ASUS/Documents/Lab%20Cpe/lab-01-Bsatayu/Contact">Contact</a> 
+</h1>
+<table>
+     <tr>
+       <td align="right">
+         <img class="portrait" src="welcome.png" alt="Grad" width="400px" height="400px"/>
+ </td>
+ </tr>
 </body>
 </html> 
